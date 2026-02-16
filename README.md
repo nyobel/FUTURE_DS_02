@@ -77,4 +77,3 @@ This project transforms 7,043 customer records into actionable retention insight
 
 ---
 
-*Last Updated: February 2026*
